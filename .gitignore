@@ -47,3 +47,5 @@ lighthouse-cli/types/*.map
 /chrome.zip
 
 plots/out**
+
+gcloud-credentials.json
